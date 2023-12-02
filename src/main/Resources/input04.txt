@@ -1,0 +1,6 @@
+grupo: Eduardo Felipe Geovana
+grupo: Igor Samuel Rafael Vitor
+criaFila: Fila1
+criaFila: Fila2
+chegou: Eduardo Igor Felipe Samuel Geovana Rafael Vitor
+imprime:

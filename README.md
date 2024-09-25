@@ -1,12 +1,5 @@
 # A3 - Algoritmos e Estrutura de Dados 2023/2
-### Integrantes:
-Eduardo de Santana - 821224129;
-Felipe Losano - 821234991;
-Giovanna Pilon - 822143026;
-Igor Rodrigues - 822138611;
-Rafael Colete - 821231041;
-Samuel Costa Nascimento - 822159536;
-Vitor Sirotenco - 822128201;
+
 
 #### Explicação Implementações:
 Foram criadas classes para representar as seguintes entidades: [Fila](src/main/Fila.java#), [Pessoa](src/main/Fila.java), [Grupo](src/main/Pessoa.java);
